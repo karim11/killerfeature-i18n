@@ -1,0 +1,18 @@
+{
+  "tabs": {
+    "games": "Games",
+    "android": "Android Games",
+    "community": "Community",
+    "store": "Store",
+    "media": "Media",
+    "apps": "Apps",
+    "settings": "Settings"
+  },
+  "games": {
+    "loading": "Loading your games library..."
+  },
+  "window": {
+    "fullscreen": "Fullscreen",
+    "windowed": "Windowed"
+  }
+}

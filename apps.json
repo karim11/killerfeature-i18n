@@ -1,0 +1,289 @@
+{
+  "apps": {
+    "title": "Apps & Emulators",
+    "header": {
+      "title": "Apps & Emulators",
+      "rescan": "Rescan"
+    },
+    "filters": {
+      "all": "All",
+      "installed": "Installed",
+      "emulator": "Emulators",
+      "emulators": "Emulators",
+      "streaming": "Streaming",
+      "communication": "Communication",
+      "utility": "Tools",
+      "utilities": "Tools"
+    },
+    "status": {
+      "installed": "Installed",
+      "notInstalled": "Not installed"
+    },
+    "badges": {
+      "installed": "Installed",
+      "notInstalled": "Not installed"
+    },
+    "actions": {
+      "rescan": "Rescan",
+      "launch": "Launch",
+      "launchInstaller": "Run installer",
+      "run": "Launch",
+      "runInstaller": "Run installer",
+      "install": "Install",
+      "installing": "Installing...",
+      "openLink": "Open link..."
+    },
+    "about": {
+      "emulator": "About emulator",
+      "utility": "About tool",
+      "app": "About app"
+    },
+    "moreInfo": {
+      "emulator": "About emulator",
+      "utility": "About tool",
+      "app": "About app"
+    },
+    "modal": {
+      "description": "Description",
+      "requirements": "System requirements",
+      "descriptionTitle": "Description",
+      "requirementsTitle": "System requirements",
+      "reqLabels": {
+        "cpu": "CPU",
+        "gpu": "GPU",
+        "ram": "Memory",
+        "os": "Operating system"
+      },
+      "noExtraInfo": "No additional information available"
+    },
+    "reqLabels": {
+      "cpu": "CPU",
+      "gpu": "GPU",
+      "ram": "Memory",
+      "os": "Operating system"
+    },
+    "categories": {
+      "emulator": "Emulator",
+      "communication": "Communication",
+      "streaming": "Streaming",
+      "utility": "Tool",
+      "app": "App"
+    },
+    "errors": {
+      "downloadFailedTitle": "Couldn't download the app.",
+      "unknownError": "An unknown error occurred."
+    },
+    "items": {
+      "duckstation": {
+        "platform": "PlayStation 1",
+        "desc": "Legendary PS1 emulator — play PlayStation 1 games with higher resolution, filters, and modern enhancements.",
+        "details": {
+          "definition": "DuckStation is a fast and accurate PlayStation 1 emulator. It supports resolution upscaling, graphics filters, image enhancements, and save states for a modern experience.",
+          "requirements": {
+            "cpu": "Intel Core i3 / AMD Ryzen 3 (prefer a newer generation)",
+            "gpu": "DirectX 11 / Vulkan compatible",
+            "ram": "2 GB (4 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "pcsx2": {
+        "platform": "PlayStation 2",
+        "desc": "The most powerful PS2 emulator — play PlayStation 2 games in high resolution with advanced graphics enhancements.",
+        "details": {
+          "definition": "PCSX2 is the leading PlayStation 2 emulator on PC. It offers high compatibility, resolution scaling, texture improvements, and modern rendering options.",
+          "requirements": {
+            "cpu": "Intel Core i5-4590 / AMD Ryzen 5 1400 (newer gen recommended)",
+            "gpu": "DirectX 11 / Vulkan compatible (GTX 1050 / RX 560 or better recommended)",
+            "ram": "8 GB (16 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "rpcs3": {
+        "platform": "PlayStation 3",
+        "desc": "The first PS3 emulator — run PlayStation 3 games on PC with great performance and high compatibility.",
+        "details": {
+          "definition": "RPCS3 is an open-source PlayStation 3 emulator and debugger. It focuses on accuracy and performance and supports a large library of PS3 titles.",
+          "requirements": {
+            "cpu": "Intel Core i5-6600K / AMD Ryzen 5 2600 (4+ cores; 6+ recommended)",
+            "gpu": "Vulkan compatible GPU (GTX 1060 / RX 580 or better recommended)",
+            "ram": "8 GB (16 GB recommended)",
+            "os": "Windows 10/11 (64-bit) or Linux"
+          }
+        }
+      },
+      "ppsspp": {
+        "platform": "PSP",
+        "desc": "Fast PSP emulator — play PSP games in HD quality with excellent smoothness.",
+        "details": {
+          "definition": "PPSSPP is a high-performance PSP emulator. It supports HD rendering, texture scaling, save states, and a wide range of controllers.",
+          "requirements": {
+            "cpu": "Intel Core 2 Duo E8400 / AMD Athlon II X2 250 or better",
+            "gpu": "DirectX 9 / OpenGL 3.0 / Vulkan compatible",
+            "ram": "2 GB (4 GB recommended)",
+            "os": "Windows 7 or later"
+          }
+        }
+      },
+      "dolphin": {
+        "platform": "Wii / GameCube",
+        "desc": "Best Wii & GameCube emulator — excellent compatibility with HD support, mods, and enhancements.",
+        "details": {
+          "definition": "Dolphin is a mature emulator for Nintendo GameCube and Wii. It supports upscaling, widescreen hacks, texture packs, and many enhancements.",
+          "requirements": {
+            "cpu": "Intel Core i5-6500 / AMD Ryzen 5 1600 (4+ cores)",
+            "gpu": "DirectX 11 / OpenGL 4.4 / Vulkan compatible",
+            "ram": "4 GB (8 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "cemu": {
+        "platform": "Wii U",
+        "desc": "Powerful Wii U emulator — play Zelda and Mario with up to 4K resolution, great performance, and exclusive mods.",
+        "details": {
+          "definition": "Cemu is a high-performance Wii U emulator focused on accuracy and speed. It supports graphics packs, mods, and many popular Wii U games.",
+          "requirements": {
+            "cpu": "Intel Core i5-3470 / AMD FX-8350 (4+ cores)",
+            "gpu": "DirectX 11 / OpenGL 4.5 (GTX 970 / RX 470 or better recommended)",
+            "ram": "8 GB (16 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "ryujinx": {
+        "platform": "Nintendo Switch",
+        "desc": "Popular Nintendo Switch emulator — run Switch games with high resolution and solid stability.",
+        "details": {
+          "definition": "Ryujinx is an open-source Nintendo Switch emulator focused on accuracy and usability. It supports many Switch titles and modern graphics backends.",
+          "requirements": {
+            "cpu": "Intel Core i7-8700K / AMD Ryzen 5 3600 (6+ cores)",
+            "gpu": "Vulkan compatible GPU (GTX 1060 / RX 580 or better recommended)",
+            "ram": "8 GB (16 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "citra": {
+        "platform": "Nintendo 3DS",
+        "desc": "Popular 3DS emulator — play Nintendo 3DS games with higher resolution and smooth performance.",
+        "details": {
+          "definition": "Citra is a well-known Nintendo 3DS emulator. It supports resolution scaling, texture enhancements, save states, and many popular 3DS games.",
+          "requirements": {
+            "cpu": "Intel Core i5-4460 / AMD Ryzen 3 1200 (strong single-core helps)",
+            "gpu": "OpenGL 3.3 / Vulkan compatible",
+            "ram": "4 GB (8 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "bsnes": {
+        "platform": "Super Nintendo",
+        "desc": "Most accurate SNES emulator — an authentic classic experience for Super Nintendo games.",
+        "details": {
+          "definition": "bsnes focuses on cycle-accurate emulation for Super Nintendo. It delivers very high accuracy for classic SNES titles.",
+          "requirements": {
+            "cpu": "Intel Core i3-3220 / AMD Ryzen 3 1200 (dual-core)",
+            "gpu": "Any modern GPU",
+            "ram": "2 GB",
+            "os": "Windows 7 or later"
+          }
+        }
+      },
+      "xenia": {
+        "platform": "Xbox 360",
+        "desc": "Experimental Xbox 360 emulator — run classic Xbox 360 games on PC.",
+        "details": {
+          "definition": "Xenia is an experimental Xbox 360 emulator. Compatibility varies by game, but it can run many titles with ongoing improvements.",
+          "requirements": {
+            "cpu": "Intel Core i7-6700K / AMD Ryzen 7 2700X (6+ cores)",
+            "gpu": "Vulkan / DirectX 12 compatible GPU (GTX 1070 / RX Vega 56 or better recommended)",
+            "ram": "8 GB (16 GB recommended)",
+            "os": "Windows 10 (64-bit) or later"
+          }
+        }
+      },
+      "discord": {
+        "desc": "Voice and text chat with friends — the #1 communication app for gamers and communities.",
+        "details": {
+          "definition": "Discord is a free communication app with voice, text, and video chat. It’s built for communities, with servers, channels, and bots.",
+          "requirementsText": "No special requirements — works on most modern PCs."
+        }
+      },
+      "teamspeak": {
+        "desc": "High-quality voice chat — a professional alternative for voice communication while gaming.",
+        "details": {
+          "definition": "TeamSpeak is a lightweight voice chat client known for low latency and high audio quality, popular for competitive and team play.",
+          "requirementsText": "No special requirements — works on most modern PCs."
+        }
+      },
+      "obs": {
+        "desc": "The best free streaming tool — record and livestream in professional quality to Twitch and YouTube.",
+        "details": {
+          "definition": "OBS Studio is a free, open-source app for video recording and live streaming. It supports scenes, sources, capture devices, and plugins.",
+          "requirements": {
+            "cpu": "Quad-core CPU — Intel Core i5 or AMD Ryzen 5",
+            "gpu": "DirectX 10 compatible GPU (NVIDIA GTX 900+ / AMD RX 560+)",
+            "ram": "8 GB RAM",
+            "os": "Windows 10 or later"
+          }
+        }
+      },
+      "streamlabs": {
+        "desc": "Enhanced OBS — an easy UI with extra tools for streaming and viewer interaction.",
+        "details": {
+          "definition": "Streamlabs Desktop builds on OBS with an easier workflow, alerts, overlays, and tools designed for streamers.",
+          "requirements": {
+            "cpu": "Quad-core CPU — Intel Core i5 or AMD Ryzen 5",
+            "gpu": "DirectX 10 compatible GPU (NVIDIA GTX 900+ / AMD RX 560+)",
+            "ram": "8 GB RAM",
+            "os": "Windows 10 or later"
+          }
+        }
+      },
+      "afterburner": {
+        "desc": "GPU monitoring and overclocking — full control over performance, temps, and FPS stats.",
+        "details": {
+          "definition": "MSI Afterburner is a popular tool for monitoring and tweaking GPU settings (clock, voltage, fan curve) and displaying on-screen stats.",
+          "requirementsText": "No special requirements — works with most NVIDIA and AMD GPUs."
+        }
+      },
+      "rivatuner": {
+        "desc": "On-screen performance overlay — FPS, temps, and resource usage while gaming.",
+        "details": {
+          "definition": "RivaTuner Statistics Server (RTSS) provides on-screen display and frame limiting, commonly used with MSI Afterburner.",
+          "requirementsText": "No special requirements — works on most modern PCs."
+        }
+      },
+      "geforce": {
+        "desc": "NVIDIA drivers and tools — auto updates and ShadowPlay to capture your best moments.",
+        "details": {
+          "definition": "GeForce Experience helps keep NVIDIA drivers up to date and provides game optimizations, recording, and streaming features.",
+          "requirementsText": "Requires an NVIDIA GeForce GPU."
+        }
+      },
+      "amd": {
+        "desc": "Full AMD control suite — drivers and optimizations for AMD GPUs with built-in recording and streaming tools.",
+        "details": {
+          "definition": "AMD Software: Adrenalin Edition lets you manage AMD drivers and GPU settings, optimize games, and record/stream gameplay.",
+          "requirementsText": "Requires an AMD Radeon GPU."
+        }
+      },
+      "ds4windows": {
+        "desc": "Use PlayStation controllers on Windows — map DualShock/DualSense to XInput for better game/emulator compatibility.",
+        "details": {
+          "definition": "DS4Windows maps DualShock/DualSense controllers to XInput so they behave like an Xbox controller, improving compatibility.",
+          "requirementsText": "Recommended to enable DS4Windows before launching the game. Admin privileges may be required on some devices."
+        }
+      },
+      "overwolf": {
+        "desc": "Gaming app platform — in-game overlays, stats, and extra tools to enhance your experience.",
+        "details": {
+          "definition": "Overwolf is a platform for in-game apps and overlays. It enables add-ons like stats trackers, guides, and game utilities.",
+          "requirementsText": "No special requirements — works on most modern PCs."
+        }
+      }
+    }
+  }
+}

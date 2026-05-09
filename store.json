@@ -1,0 +1,31 @@
+{
+  "store": {
+    "title": "Store",
+    "aria": {
+      "content": "Store content",
+      "webview": "Store view",
+      "sidebar": "Stores list"
+    },
+    "sidebar": { "title": "Stores" },
+    "status": {
+      "installed": "Installed",
+      "notInstalled": "Not installed"
+    },
+    "group": {
+      "installed": "Installed",
+      "notInstalled": "Not installed"
+    },
+    "actions": {
+      "openLauncher": "Open launcher",
+      "browse": "Browse",
+      "install": "Install"
+    },
+    "notice": {
+      "readyIn": "Ready in {name}.",
+      "notInstalled": "This store is not installed yet.",
+      "installing": "Installing {name}…",
+      "installed": "Installed",
+      "openedDownloadLink": "Opened the download link"
+    }
+  }
+}

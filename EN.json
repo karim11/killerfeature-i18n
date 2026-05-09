@@ -1,0 +1,5 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "files": ["index.json","apps.json","community.json","game.json","media.json","store.json","settings.json"]
+}

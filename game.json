@@ -1,0 +1,14 @@
+{
+  "games": {
+    "filterAll": "All",
+    "recentPlayed": "Recently Played",
+    "recentInstalled": "Recently Installed",
+    "viewAll": "View All",
+    "launchHint": "Press Enter to Launch",
+    "pressToLaunch": "Press A to Launch",
+    "refreshLibrary": "Refresh Library",
+    "allGames": "All Games",
+    "loading": "Loading your games library...",
+      "loadingCover": "Loading cover..."
+  }
+}
