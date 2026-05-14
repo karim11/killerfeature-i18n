@@ -4,13 +4,21 @@
 ![Languages](https://img.shields.io/badge/languages-17-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-**Community translations for the Killer Feature gaming ecosystem.**
+<p align="center">
+  <img src="https://killerfeature.tech/public/img/3.png" alt="Killer Feature" width="100%">
+</p>
 
-![Killer Feature Library](https://killerfeature.tech/public/img/3.png)
+## Community translations for the Killer Feature gaming ecosystem
 
 Killer Feature transforms your PC into a console-like gaming experience by bringing together games, emulators, media, and community features into one unified platform.
 
 This repository contains the official localization files used by Killer Feature. We invite the community to help us bring Killer Feature to players worldwide in their native languages.
+
+---
+
+# 📌 Project Status
+
+Killer Feature is currently in active development.
 
 ---
 
@@ -67,7 +75,7 @@ We value accuracy and localization quality. To contribute:
 
 ## ⚠️ Important Rules
 
-* **Do not** change translation keys (e.g., `"home.title"`).
+* **Do not** change translation keys (e.g. `"home.title"`).
 * **Do not** break JSON formatting (check commas and brackets).
 * **Avoid** raw machine translations without manual review.
 * **Consistency:** Keep gaming and UI terminology consistent.
@@ -79,7 +87,7 @@ We value accuracy and localization quality. To contribute:
 
 Example structure:
 
-```json
+```json id="j4l7de"
 {
   "home.title": "Welcome",
   "library.games": "Games Library"
@@ -107,9 +115,9 @@ Killer Feature is a unified gaming ecosystem focused on creating a seamless and 
 
 # 🔗 Official Links
 
-* **Official Website:** https://killerfeature.tech/
-* **Download Page:** https://killerfeature.tech/download-info/
-* **Support Page:** https://killerfeature.tech/support/
+* [Official Website](https://killerfeature.tech/)
+* [Download Page](https://killerfeature.tech/download-info/)
+* [Support Page](https://killerfeature.tech/support/)
 
 ---
 
