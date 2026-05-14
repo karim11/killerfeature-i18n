@@ -37,28 +37,66 @@ Killer Feature is currently in active development.
 | ![Settings](https://killerfeature.tech/public/img/5.png) |
 
 ---
-
 # 🌐 Supported Languages
 
-We currently support **17+ languages**, including:
+Killer Feature currently supports **52 languages** across multiple regions and communities worldwide.
 
-* 🇺🇸 English
-* 🇸🇦 Arabic
-* 🇪🇸 Spanish
-* 🇧🇷 Portuguese (Brazil)
-* 🇫🇷 French
-* 🇩🇪 German
-* 🇷🇺 Russian
-* 🇹🇷 Turkish
-* 🇮🇹 Italian
-* 🇵🇱 Polish
-* 🇯🇵 Japanese
-* 🇰🇷 Korean
-* 🇨🇳 Chinese Simplified
-* 🇹🇼 Chinese Traditional
-* 🇮🇩 Indonesian
-* 🇹🇭 Thai
-* 🇻🇳 Vietnamese
+| Language                | Code    |
+| :---------------------- | :------ |
+| 🇸🇦 العربية            | `ar`    |
+| 🇺🇸 English            | `en`    |
+| 🇪🇸 Español            | `es`    |
+| 🇧🇷 Português (Brasil) | `pt-br` |
+| 🇫🇷 Français           | `fr`    |
+| 🇩🇪 Deutsch            | `de`    |
+| 🇷🇺 Русский            | `ru`    |
+| 🇹🇷 Türkçe             | `tr`    |
+| 🇮🇹 Italiano           | `it`    |
+| 🇵🇱 Polski             | `pl`    |
+| 🇯🇵 日本語                | `ja`    |
+| 🇰🇷 한국어                | `ko`    |
+| 🇨🇳 中文（简体）             | `zh-cn` |
+| 🇹🇼 中文（繁體）             | `zh-tw` |
+| 🇮🇩 Bahasa Indonesia   | `id`    |
+| 🇹🇭 ไทย                | `th`    |
+| 🇻🇳 Tiếng Việt         | `vi`    |
+| 🇮🇳 हिन्दी             | `hi`    |
+| 🇧🇩 বাংলা              | `bn`    |
+| 🇵🇰 اردو               | `ur`    |
+| 🇮🇳 پنجابی             | `pa`    |
+| 🇰🇪 Kiswahili          | `sw`    |
+| 🇮🇳 मराठी              | `mr`    |
+| 🇮🇳 తెలుగు             | `te`    |
+| 🇮🇳 தமிழ்              | `ta`    |
+| 🇮🇷 فارسی              | `fa`    |
+| 🇳🇱 Nederlands         | `nl`    |
+| 🇷🇴 Română             | `ro`    |
+| 🇺🇦 Українська         | `uk`    |
+| 🇮🇩 Jawa               | `jv`    |
+| 🇮🇩 Sunda              | `su`    |
+| 🇳🇬 Hausa              | `ha`    |
+| 🇳🇬 Yorùbá             | `yo`    |
+| 🇳🇬 Igbo               | `ig`    |
+| 🇪🇹 አማርኛ               | `am`    |
+| 🇪🇹 Afaan Oromoo       | `om`    |
+| 🇸🇴 Soomaali           | `so`    |
+| 🇿🇦 isiZulu            | `zu`    |
+| 🇿🇦 isiXhosa           | `xh`    |
+| 🇳🇵 नेपाली             | `ne`    |
+| 🇱🇰 සිංහල              | `si`    |
+| 🇰🇭 ភាសាខ្មែរ          | `km`    |
+| 🇲🇲 မြန်မာ             | `my`    |
+| 🇲🇾 Bahasa Melayu      | `ms`    |
+| 🇵🇭 Tagalog            | `tl`    |
+| 🇮🇳 ಕನ್ನಡ              | `kn`    |
+| 🇮🇳 മലയാളം             | `ml`    |
+| 🇮🇳 ଓଡ଼ିଆ              | `or`    |
+| 🇦🇿 Azərbaycan dili    | `az`    |
+| 🇺🇿 Oʻzbek tili        | `uz`    |
+| 🇵🇰 سنڌي               | `sd`    |
+| 🇦🇫 پښتو               | `ps`    |
+| 🏳️ Kurdî               | `ku`    |
+| 🇮🇳 मैथिली             | `mai`   |
 
 ---
 
