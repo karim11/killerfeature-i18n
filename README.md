@@ -1,7 +1,7 @@
 # Killer Feature i18n 🌍
 
 ![Platform](https://img.shields.io/badge/platform-Windows-orange)
-![Languages](https://img.shields.io/badge/languages-17-blue)
+![Languages](https://img.shields.io/badge/languages-52-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 <p align="center">
