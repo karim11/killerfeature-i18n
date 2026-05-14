@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 
 <p align="center">
-  <img src="https://killerfeature.tech/public/img/3.png" alt="Killer Feature" width="100%">
+  <img src="https://killerfeature.tech/public/img/1.png" alt="Killer Feature" width="100%">
 </p>
 
 ## Community translations for the Killer Feature gaming ecosystem
@@ -26,15 +26,15 @@ Killer Feature is currently in active development.
 
 |                         Games Library                         |                         Store Integration                         |
 | :-----------------------------------------------------------: | :---------------------------------------------------------------: |
-| ![Games Library](https://killerfeature.tech/public/img/3.png) | ![Store Integration](https://killerfeature.tech/public/img/1.png) |
+| ![Games Library](https://killerfeature.tech/public/img/1.png) | ![Store Integration](https://killerfeature.tech/public/img/4.png) |
 
 |                         Community Features                         |                         Media Center                         |
 | :----------------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Community Features](https://killerfeature.tech/public/img/4.png) | ![Media Center](https://killerfeature.tech/public/img/5.png) |
+| ![Community Features](https://killerfeature.tech/public/img/2.png) | ![Media Center](https://killerfeature.tech/public/img/3.png) |
 
 |                  Settings & Localization                 |
 | :------------------------------------------------------: |
-| ![Settings](https://killerfeature.tech/public/img/2.png) |
+| ![Settings](https://killerfeature.tech/public/img/5.png) |
 
 ---
 
